@@ -15,7 +15,7 @@ from GABDConnect.oracleConnection import oracleConnection as orcl
 import logging
 from argparse import ArgumentParser
 
-
+#GRUP 17 (SAMU, VERO, BIAN)
 class TestOptions(ArgumentParser):
 
   def __init__(self):
